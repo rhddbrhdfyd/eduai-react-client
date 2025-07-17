@@ -3,6 +3,5 @@
     "env": {
       "CI": "false"
     }
-  },
-  "cache": false
+  }
 }
