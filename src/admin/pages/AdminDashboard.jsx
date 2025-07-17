@@ -1,5 +1,3 @@
-jsx
-복사편집
 // client/src/admin/pages/AdminDashboard.jsx
 import React, { useState } from 'react';
 import ImageUpload from "../components/ImageUpload.jsx";
