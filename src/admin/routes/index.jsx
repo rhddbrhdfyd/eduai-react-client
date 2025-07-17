@@ -44,4 +44,4 @@ function RoutesComponent() {
   );
 }
 
-export default RoutesComponent; // ✅ 반드시 있어야 함
+export default RoutesComponent;
