@@ -1,4 +1,4 @@
-import RoutesComponent from "./routes"; // ✅ default import 이름 맞춰줌
+import RoutesComponent from "./routes/index.jsx"; // ✅
 
 export default function App() {
   return (
